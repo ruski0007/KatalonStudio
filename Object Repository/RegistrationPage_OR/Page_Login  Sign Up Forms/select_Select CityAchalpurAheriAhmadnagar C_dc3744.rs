@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select CityAchalpurAheriAhmadnagar C_dc3744</name>
+   <tag></tag>
+   <elementGuidId>28d117c5-7804-4e06-b1cc-dd32fd2b7deb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='cityId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>city</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>last cities</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cityId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+   Select City
+AchalpurAheriAhmadnagar CantonmentAhmadpurAhmednagarAjraAkalkotAkkalkuwaAkolaAkotAlandiAlibagAllapalliAloreAmalnerAmbadAmbajogaiAmbernathAmbivali Tarf WankhalAmgaonAmravatiAnjangaonArviAshtaAshtiAurangabadAurangabad CantonmentAusaBabhulgaonBadlapurBalapurBallarpurBaramatiBarshiBasmatBeedBhadravatiBhagurBhandaraBhigvanBhingarBhiwandiBhokhardanBhorBhosariBhumBhusawalBidBiloliBirwadiBoisarBop KhelBrahmapuriBudhgaonBuldanaBuldhanaButiboriChakanChalisgaonChandrapurChandurChandur BazarChandvadChicholiChikhalaChikhaldaraChikhliChinchaniChinchwadChiplunChopdaDabholDahanceDahanuDaharuDapoli CampDarwaDaryapurDattapurDaundDavlametiDeglurDehu RoadDeolaliDeolali PravaraDeoliDesaiganjDeulgaon RajaDewhadiDharangaonDharmabadDharurDhatauDhuleDigdohDiglurDigrasDombivliDondaichaDudhaniDurgapurDyaneEdandolEklahareFaizpurFekariGadchiroliGadhinghajGandhi NagarGaneshpurGangakherGangapurGevraiGhatanjiGhotiGhugusGhulewadiGodoliGondiaGuhagarHadgaonHarnai BeachHinganghatHingoliHupariIchalkaranjiIgatpuriIndapurJaisinghpurJalgaonJalnaJamkhedJawharJaysingpurJejuriJinturJunnarKabnurKagalKalambKalamnuriKalasKalmeshwarKalundreKalyanKamthiKamthi CantonmentKandariKandharKandriKandri IIKanhanKankavliKannadKaradKaranjaKaranje TarfKarivaliKarjatKarmalaKasara BudrukKataiKatkarKatolKegaonKhadkaleKhadkiKhamgaonKhapaKharadiKharakvaslaKhedKherdiKhoniKhopoliKhuldabadKinwatKodoliKolhapurKonKondumalKopargaonKopharadKoradiKoregaonKorochiKudalKundaimKundalwadiKurandvadKurduvadiKusgaon BudrukLanjaLasalgaonLaturLohaLohegaonLonarLonavalaMadhavnagarMahabaleshwarMahadMahadulaMaindargiMajalgaonMalegaonMalgaonMalkapurMalwanManadurMancharMangalvedheMangrul PirManmadManorMansarManwathMapucaMatheranMehkarMhaslaMhaswadMira BhayandarMirajMohpaMohpadaMoramMorshiMowadMudkhedMukhedMulMulshiMumbaiMurbadMurgudMurtijapurMurudNachaneNagardeoleNagothaneNagpurNakodaNalasoparaNaldurgNandedNandgaonNanduraNandurbarNarkhedNashikNavapurNavi MumbaiNavi Mumbai PanvelNeralNigdiNilangaNildohNimbhoreOjharOsmanabadPachgaonPachoraPadaghaPaithanPalgharPaliPanchganiPandhakarwadaPandharpurPanhalaPanvelParandaParbhaniParliParolaParturPasthalPatanPathardiPathriPaturPawniPenPethumriPhaltanPimpriPoladpurPulgaonPunePune CantonmentPurnaPurushottamnagarPusadRahimatpurRahta PimplasRahuriRaigadRajapurRajgurunagarRajurRajuraRamtekRatnagiriRavalgaonRaverRevadandaRisodRoha AshtamiSakriSandorSangamnerSangliSangoleSastiSasvadSatanaSataraSavantvadiSavdaSavnerSawari JawharnagarSeluShahadaShahapurShegaonShelarShendurjanaShirdiShirgaonShirpurShirurShirwalShivatkarShrigondaShrirampurShrirampur RuralSillewadaSillodSindhudurgSindiSindi Turf HindnagarSindkhed RajaSingnapurSinnarSirurSitasawangiSolapurSonaiSonegaonSoyagaonSrivardhanSurganaTalegaon DabhadeTalodaTalojaTalwadeTarapurTasgaonTathavadeTekadiTelharaThaneTiriraTotaladohTrimbakTuljapurTumsarUchgaonUdgirUlhasnagarUmargaUmarkhedUmarsaraUmbar Pada NandadeUmredUmri Pragane BalapurUranUran IslampurUtekholVadaVadgaonVadgaon KasbaVaijapurVanvadiVarangaonVasaiVasantnagarVashindVengurlaVirarVisapurViteVithalwadiWadiWaghapurWaiWajegaonWalaniWanadongriWaniWardhaWaroraWarthiWarudWashimYavalYavatmalYeolaYerkheda</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cityId&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='cityId']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-content1']/form/select[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::select[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[4]</value>
+   </webElementXpaths>
+</WebElementEntity>
