@@ -21,39 +21,29 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://thetestingworld.com/testings/')
 
-WebUI.setText(findTestObject('null'), 
-    'adityanadkarni')
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Username'), 'adityanadkarni')
 
-WebUI.setText(findTestObject('null'), 
-    'adithedaddy90@gmail.com')
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Email'), 'adithedaddy90@gmail.com')
 
-WebUI.setText(findTestObject('null'), 
-    'abcd1234')
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Password'), 'abcd1234')
 
-WebUI.setText(findTestObject('null'), 
-    'abcd1234')
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Confirm Password'), 'abcd1234')
 
-WebUI.setText(findTestObject('null'), 
-    '21/12/1990')
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/DOB'), '21/12/1990')
 
-WebUI.setText(findTestObject('null'), 
-    '8867452434')
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/phoneNo'), '8867452434')
 
-WebUI.setText(findTestObject('null'), 
-    'sachin society building no.8, flat no.3')
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Address'), 'sachin society building no.8, flat no.3')
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/RadioBtnHome'))
 
-WebUI.selectOptionByValue(findTestObject('null'), 
-    '1', true)
+WebUI.selectOptionByValue(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Gender'), '1', true)
 
-WebUI.selectOptionByValue(findTestObject('null'), 
-    '101', true)
+WebUI.selectOptionByValue(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Country'), '101', true)
 
-WebUI.setText(findTestObject('null'), 
-    '400081')
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/ZipCode'), '400081')
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/TC'))
 
 WebUI.closeBrowser()
 
