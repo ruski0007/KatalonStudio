@@ -21,39 +21,39 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://thetestingworld.com/testings/')
 
-WebUI.setText(findTestObject('Object Repository/RegistrationPage_OR/Page_Login  Sign Up Forms/input_Address type HomeOffice_fld_username'), 
+WebUI.setText(findTestObject('null'), 
     'adityanadkarni')
 
-WebUI.setText(findTestObject('Object Repository/RegistrationPage_OR/Page_Login  Sign Up Forms/input_Address type HomeOffice_fld_email'), 
+WebUI.setText(findTestObject('null'), 
     'adithedaddy90@gmail.com')
 
-WebUI.setText(findTestObject('Object Repository/RegistrationPage_OR/Page_Login  Sign Up Forms/input_Address type HomeOffice_fld_password'), 
+WebUI.setText(findTestObject('null'), 
     'abcd1234')
 
-WebUI.setText(findTestObject('Object Repository/RegistrationPage_OR/Page_Login  Sign Up Forms/input_Address type HomeOffice_fld_cpassword'), 
+WebUI.setText(findTestObject('null'), 
     'abcd1234')
 
-WebUI.setText(findTestObject('Object Repository/RegistrationPage_OR/Page_Login  Sign Up Forms/input_Address type HomeOffice_dob'), 
+WebUI.setText(findTestObject('null'), 
     '21/12/1990')
 
-WebUI.setText(findTestObject('Object Repository/RegistrationPage_OR/Page_Login  Sign Up Forms/input_Address type HomeOffice_phone'), 
+WebUI.setText(findTestObject('null'), 
     '8867452434')
 
-WebUI.setText(findTestObject('Object Repository/RegistrationPage_OR/Page_Login  Sign Up Forms/input_Address type HomeOffice_address'), 
+WebUI.setText(findTestObject('null'), 
     'sachin society building no.8, flat no.3')
 
-WebUI.click(findTestObject('Object Repository/RegistrationPage_OR/Page_Login  Sign Up Forms/input_Address type HomeOffice_add_type'))
+WebUI.click(findTestObject('null'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/RegistrationPage_OR/Page_Login  Sign Up Forms/select_Choose Gender                  Male _4c15ff'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     '1', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/RegistrationPage_OR/Page_Login  Sign Up Forms/select_Select CountryAfghanistanAlbaniaAlge_9a933d'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     '101', true)
 
-WebUI.setText(findTestObject('Object Repository/RegistrationPage_OR/Page_Login  Sign Up Forms/input_Address type HomeOffice_zip'), 
+WebUI.setText(findTestObject('null'), 
     '400081')
 
-WebUI.click(findTestObject('Object Repository/RegistrationPage_OR/Page_Login  Sign Up Forms/input_Address type HomeOffice_terms'))
+WebUI.click(findTestObject('null'))
 
 WebUI.closeBrowser()
 

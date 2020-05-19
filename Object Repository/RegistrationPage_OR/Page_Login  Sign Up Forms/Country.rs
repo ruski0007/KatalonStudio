@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Select CountryAfghanistanAlbaniaAlge_9a933d</name>
+   <name>Country</name>
    <tag></tag>
-   <elementGuidId>e51b69fe-c3c6-439d-b8ce-a1d33cc77377</elementGuidId>
+   <elementGuidId>ee001f82-99af-4430-8e6b-979775bff0a1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
