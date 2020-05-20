@@ -45,3 +45,5 @@ WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/ZipC
 
 WebUI.click(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/TC'))
 
+WebUI.closeBrowser()
+
