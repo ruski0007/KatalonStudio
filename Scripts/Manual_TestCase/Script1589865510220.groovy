@@ -59,5 +59,3 @@ WebUI.click(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/TC'))
 
 WebUI.closeBrowser()
 
-// Gautami is my beautiful wife
-
