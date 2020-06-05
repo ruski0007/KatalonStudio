@@ -45,11 +45,11 @@ WebUI.selectOptionByLabel(findTestObject('RegistrationPage_OR/Page_Login  Sign U
 
 WebUI.selectOptionByLabel(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Country'), 'India', true)
 
-WebUI.waitForElementHasAttribute(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/State'), 'Value', 4, FailureHandling.STOP_ON_FAILURE)
+WebUI.waitForElementHasAttribute(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/State'), 'Value', 22, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.selectOptionByLabel(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/State'), 'Maharashtra', false)
 
-WebUI.waitForElementHasAttribute(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/City'), 'Value', 4)
+WebUI.waitForElementHasAttribute(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/City'), 'Value', 2707)
 
 WebUI.selectOptionByLabel(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/City'), 'Mumbai', false)
 
