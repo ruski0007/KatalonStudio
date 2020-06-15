@@ -21,7 +21,6 @@ WebUI.openBrowser('https://thetestingworld.com/testings/')
 WebUI.maximizeWindow()
 
 page_url = WebUI.getUrl()
-
 println(page_url)
 
 title1 = WebUI.getWindowTitle()
@@ -30,7 +29,6 @@ println(title1)
 WebUI.navigateToUrl('https://www.google.com/')
 
 page_url2 = WebUI.getUrl()
-
 println(page_url2)
 
 title2 = WebUI.getWindowTitle()
