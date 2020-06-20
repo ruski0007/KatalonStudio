@@ -34,5 +34,3 @@ WebUI.setEncryptedText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up F
 
 WebUI.sendKeys(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Email'), 'adithedaddy90@gmail.com')
 
-WebUI.closeBrowser()
-
