@@ -28,3 +28,5 @@ WebUI.refresh()
 
 WebUI.forward()
 
+WebUI.closeBrowser()
+
