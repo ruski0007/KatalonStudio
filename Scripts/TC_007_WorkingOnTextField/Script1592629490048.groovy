@@ -30,7 +30,7 @@ WebUI.clearText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Us
 WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Username'), 'aditya0007')
 
 'with this it will encrypt the text and will display here'
-WebUI.setEncryptedText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Password'), 'QwFdsk+Z8OA=')
+WebUI.setEncryptedText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Password'), 'J6NyV8Mr4GT/KivikY/qPg==')
 
 WebUI.sendKeys(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Email'), 'adithedaddy90@gmail.com')
 

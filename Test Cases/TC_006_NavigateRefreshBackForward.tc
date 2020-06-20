@@ -5,8 +5,8 @@
 2) Navigate Back 
 3) Navigate Forward
 4) Refresh the whole page</description>
-   <name>TC_005_Working on Browsers</name>
+   <name>TC_006_NavigateRefreshBackForward</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>a518609e-70c8-4e75-811c-bf11461be805</testCaseGuid>
+   <testCaseGuid>ea431466-77e5-4991-9ed5-f2d528416856</testCaseGuid>
 </TestCaseEntity>
