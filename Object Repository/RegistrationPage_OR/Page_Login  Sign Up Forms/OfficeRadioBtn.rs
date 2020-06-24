@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>TC</name>
+   <name>OfficeRadioBtn</name>
    <tag></tag>
-   <elementGuidId>b127c3e0-043a-46ef-8d26-4b9c5868a0fd</elementGuidId>
+   <elementGuidId>572d3fc7-6c85-46c3-bd7b-e7f66826c8d1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//em[contains(text(),'terms and conditions')]/parent::div/input[1]</value>
+         <value>//*[@value = 'office']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -20,45 +20,52 @@
       <value>input</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>name</name>
       <type>Main</type>
-      <value>checkbox</value>
+      <value>add_type</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>type</name>
       <type>Main</type>
-      <value>terms</value>
+      <value>radio</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>office</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;tab-content1&quot;)/form[1]/div[@class=&quot;btn&quot;]/input[1]</value>
+      <value>id(&quot;tab-content1&quot;)/form[1]/input[10]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='terms']</value>
+      <value>(//input[@name='add_type'])[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='tab-content1']/form/div/input</value>
+      <value>//div[@id='tab-content1']/form/input[10]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/input</value>
+      <value>//input[10]</value>
    </webElementXpaths>
 </WebElementEntity>
