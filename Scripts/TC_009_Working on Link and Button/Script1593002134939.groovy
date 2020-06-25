@@ -38,12 +38,15 @@ WebUI.setEncryptedText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up F
 
 WebUI.sendKeys(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Email'), 'adithedaddy90@gmail.com')
 
+'Clicking on Checkbox for Accepting the agreement'
 WebUI.uncheck(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/TC'))
 
+'clicking on Radio button '
 WebUI.check(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/OfficeRadioBtn'))
 
 WebUI.check(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/HomeRadioBtn'))
 
+'clicking on the link provided '
 WebUI.click(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Read Detail Link'))
 
 WebUI.click(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Close Button'))
