@@ -23,3 +23,9 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://thetestingworld.com/')
 
+WebUI.rightClick(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/Login Button'))
+
+WebUI.delay(3)
+
+WebUI.doubleClick(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/Login Button'))
+
