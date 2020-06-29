@@ -23,5 +23,5 @@ WebUI.scrollToElement(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_
 
 WebUI.delay(2)
 
-WebUI.scrollToElement(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/TrainingMenu'), 2)
+WebUI.scrollToElement(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/Login Button'), 2)
 
