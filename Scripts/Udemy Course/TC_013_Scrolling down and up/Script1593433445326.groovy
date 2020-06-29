@@ -17,21 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.openBrowser('https://thetestingworld.com/')
 
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl('https://thetestingworld.com/')
-
-WebUI.rightClick(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/Login Button'))
+WebUI.scrollToElement(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/View More'), 2)
 
 WebUI.delay(2)
 
-WebUI.doubleClick(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/Login Button'))
-
-WebUI.back()
-
-WebUI.waitForPageLoad(3)
-
-WebUI.mouseOver(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/TrainingMenu'))
+WebUI.scrollToElement(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/TrainingMenu'), 2)
 
