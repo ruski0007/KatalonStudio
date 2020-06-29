@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_010_Working on Drop Down List</name>
+   <name>TC_010_Working on Drop Down and List</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>b66beb7e-fb0f-4048-870e-93c99078f7bb</testCaseGuid>
