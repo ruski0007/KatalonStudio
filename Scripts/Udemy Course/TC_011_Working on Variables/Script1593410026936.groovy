@@ -37,3 +37,5 @@ WebUI.setText(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign 
 
 WebUI.scrollToElement(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/Username'), 3)
 
+WebUI.closeBrowser()
+
