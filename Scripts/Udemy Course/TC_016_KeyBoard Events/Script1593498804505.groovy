@@ -23,3 +23,5 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/Login Button'))
 
+WebUI.sendKeys(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/Login_Username'), 'aditya.nadkarni')
+
