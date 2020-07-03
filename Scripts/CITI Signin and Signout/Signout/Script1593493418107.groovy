@@ -19,17 +19,14 @@ import internal.GlobalVariable as GlobalVariable
 //step-1
 //WebUI.openBrowser('https://aditya.nadkarni:Welcome$890@citilink.citi-in.com/sites/critiportal/SitePages/Home.aspx')
 //WebUI.maximizeWindow()
-
 //step-2
 //WebUI.openBrowser('')
 //WebUI.maximizeWindow()
 //WebUI.authenticate('https://citilink.citi-in.com/sites/critiportal/SitePages/Home.aspx','aditya.nadkarni','Welcome$890',20)
-
 //step-3
 //WebUI.openBrowser('')
 //WebUI.maximizeWindow()
 //WebUI.navigateToUrl('https://aditya.nadkarni:Welcome$890@citilink.citi-in.com/sites/critiportal/SitePages/Home.aspx')
-
 //step-4
 WebUI.openBrowser('')
 
