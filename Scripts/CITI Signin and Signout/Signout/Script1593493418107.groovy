@@ -45,3 +45,5 @@ WebUI.click(findTestObject('CITI Attendance/Page_Home/Submit Out-time'))
 
 WebUI.delay(7)
 
+WebUI.closeBrowser()
+
