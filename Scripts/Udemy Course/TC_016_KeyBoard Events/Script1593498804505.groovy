@@ -31,5 +31,3 @@ WebUI.sendKeys(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/Logi
 
 WebUI.sendKeys(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/Login_password'), Keys.chord(Keys.CONTROL, 'v'))
 
-WebUI.closeBrowser()
-
