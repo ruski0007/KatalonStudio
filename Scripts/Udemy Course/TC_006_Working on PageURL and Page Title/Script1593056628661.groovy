@@ -17,25 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('https://thetestingworld.com/testings/')
-
 WebUI.maximizeWindow()
 
+//getting the page URL
 page_url = WebUI.getUrl()
-
 println(page_url)
 
+//getting the page title
 title1 = WebUI.getWindowTitle()
-
 println(title1)
 
+//Navigating to URL and getting the URL of the page
 WebUI.navigateToUrl('https://www.google.com/')
-
 page_url2 = WebUI.getUrl()
-
 println(page_url2)
 
+//getting the title of the page
 title2 = WebUI.getWindowTitle()
-
 println(title2)
 
 WebUI.back()

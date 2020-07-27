@@ -5,7 +5,7 @@
 2) Navigate Back 
 3) Navigate Forward
 4) Refresh the whole page</description>
-   <name>TC_005_Navigate Refresh Back Forward</name>
+   <name>TC_005_Navigate URL Refresh Back Forward</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>ea431466-77e5-4991-9ed5-f2d528416856</testCaseGuid>
