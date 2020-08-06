@@ -21,15 +21,15 @@ WebUI.openBrowser('https://thetestingworld.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/Login Button'))
+WebUI.click(findTestObject('TestingWorld_OR/TestingWorld_OR/Login Button'))
 
-WebUI.sendKeys(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/Login_Username'), 'aditya.nadkarni1234')
+WebUI.sendKeys(findTestObject('TestingWorld_OR/TestingWorld_OR/Login_Username'), 'aditya.nadkarni1234')
 
-WebUI.sendKeys(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/Login_Username'), Keys.chord(Keys.CONTROL, 'a'))
+WebUI.sendKeys(findTestObject('TestingWorld_OR/TestingWorld_OR/Login_Username'), Keys.chord(Keys.CONTROL, 'a'))
 
-WebUI.sendKeys(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/Login_Username'), Keys.chord(Keys.CONTROL, 'c'))
+WebUI.sendKeys(findTestObject('TestingWorld_OR/TestingWorld_OR/Login_Username'), Keys.chord(Keys.CONTROL, 'c'))
 
-WebUI.sendKeys(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/Login_password'), Keys.chord(Keys.CONTROL, 'v'))
+WebUI.sendKeys(findTestObject('TestingWorld_OR/TestingWorld_OR/Login_password'), Keys.chord(Keys.CONTROL, 'v'))
 
 WebUI.closeBrowser()
 

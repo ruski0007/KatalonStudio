@@ -21,7 +21,7 @@ WebUI.openBrowser('https://thetestingworld.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.scrollToElement(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/View More'), 2)
+WebUI.scrollToElement(findTestObject('TestingWorld_OR/TestingWorld_OR/View More'), 2)
 
 WebUI.takeScreenshot('D:\\Snaps\\snap1.png')
 

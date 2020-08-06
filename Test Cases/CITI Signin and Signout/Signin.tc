@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>here we are going to signin with valid username and Password</description>
-   <name>Signin</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>04c8a65d-ca78-494e-af4a-76e0f119c87f</testCaseGuid>
-</TestCaseEntity>

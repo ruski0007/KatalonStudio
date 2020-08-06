@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Login_password</name>
+   <name>View More</name>
    <tag></tag>
-   <elementGuidId>ef784802-0163-483e-b4e0-5fd9a2742ba3</elementGuidId>
+   <elementGuidId>317424de-fc09-47a5-b75a-e2e81ce0bdb5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'View More')]</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#password</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
-   <selectorMethod>CSS</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

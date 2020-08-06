@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://thetestingworld.com/')
 
-WebUI.scrollToElement(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/View More'), 2)
+WebUI.scrollToElement(findTestObject('TestingWorld_OR/TestingWorld_OR/View More'), 2)
 
 WebUI.delay(2)
 
-WebUI.scrollToElement(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/Login Button'), 2)
+WebUI.scrollToElement(findTestObject('TestingWorld_OR/TestingWorld_OR/Login Button'), 2)
 

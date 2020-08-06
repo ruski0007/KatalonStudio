@@ -7,15 +7,13 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#username</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>

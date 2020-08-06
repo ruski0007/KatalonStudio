@@ -23,39 +23,39 @@ WebUI.navigateToUrl('https://thetestingworld.com/testings/')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/Username'), 'adityanadkarni')
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Username'), 'adityanadkarni')
 
-WebUI.setText(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/Email'), 'adithedaddy90@gmail.com')
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Email'), 'adithedaddy90@gmail.com')
 
-WebUI.setText(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/Password'), 'abcd1234')
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Password'), 'abcd1234')
 
-WebUI.setText(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/Confirm Password'), 'abcd1234')
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Confirm Password'), 'abcd1234')
 
-WebUI.setText(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/DOB'), '21/12/1990')
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/DOB'), '21/12/1990')
 
-WebUI.setText(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/phoneNo'), '8867452434')
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/phoneNo'), '8867452434')
 
-WebUI.setText(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/Address'), 'Sachin Society CHS LTD')
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Address'), 'Sachin Society CHS LTD')
 
-WebUI.click(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/RadioBtnHome'))
+WebUI.click(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/RadioBtnHome'))
 
-WebUI.scrollToElement(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/Username'), 2)
+WebUI.scrollToElement(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Username'), 2)
 
-WebUI.selectOptionByLabel(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/Gender'), 'Male', true)
+WebUI.selectOptionByLabel(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Gender'), 'Male', true)
 
-WebUI.selectOptionByLabel(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/Country'), 'India', true)
+WebUI.selectOptionByLabel(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Country'), 'India', true)
 
-WebUI.waitForElementHasAttribute(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/State'), 'Value', 22, FailureHandling.STOP_ON_FAILURE)
+WebUI.waitForElementHasAttribute(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/State'), 'Value', 22, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.selectOptionByLabel(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/State'), 'Maharashtra', false)
+WebUI.selectOptionByLabel(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/State'), 'Maharashtra', false)
 
-WebUI.waitForElementHasAttribute(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/City'), 'Value', 2707)
+WebUI.waitForElementHasAttribute(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/City'), 'Value', 2707)
 
-WebUI.selectOptionByLabel(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/City'), 'Mumbai', false)
+WebUI.selectOptionByLabel(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/City'), 'Mumbai', false)
 
-WebUI.setText(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/ZipCode'), '400081')
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/ZipCode'), '400081')
 
-WebUI.click(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/TC'))
+WebUI.click(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/TC'))
 
 WebUI.closeBrowser()
 

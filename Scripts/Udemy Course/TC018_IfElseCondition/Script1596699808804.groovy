@@ -15,19 +15,24 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
 
-//step-1
-WebUI.openBrowser('https://aditya.nadkarni:Welcome$890@citilink.citi-in.com/sites/critiportal/SitePages/Home.aspx')
+WebUI.openBrowser('https://thetestingworld.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.waitForPageLoad(20)
+if (a > 50) {
+    WebUI.click(findTestObject('TestingWorld_OR/TestingWorld_OR/Login Button'))
 
-WebUI.selectOptionByValue(findTestObject('CITI Attendance/Page_Home/Select Reporting Manager'), 'sshukla@citi-us.com', false)
+    WebUI.sendKeys(findTestObject('TestingWorld_OR/TestingWorld_OR/Login_Username'), 'aditya.nadkarni1234')
 
-WebUI.click(findTestObject('CITI Attendance/Page_Home/Submit In-time'))
+    WebUI.sendKeys(findTestObject('TestingWorld_OR/TestingWorld_OR/Login_Username'), Keys.chord(Keys.CONTROL, 
+            'a'))
+} else {
+    WebUI.navigateToUrl('http://thetestingworld.com/testings')
 
-WebUI.delay(7)
+    WebUI.waitForPageLoad(10)
 
-WebUI.closeBrowser()
+    WebUI.executeJavaScript('window.scrollTo(0,500)', [])
+}
 

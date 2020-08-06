@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>TrainingMenu</name>
+   <name>Login_password</name>
    <tag></tag>
-   <elementGuidId>5db9ac59-2ef5-43bb-8380-18ba402aa866</elementGuidId>
+   <elementGuidId>ef784802-0163-483e-b4e0-5fd9a2742ba3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[(text()='TRAINING')]</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>CSS</key>
+         <value>#password</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

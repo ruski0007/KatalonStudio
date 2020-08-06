@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Submit In-time</name>
+   <name>HomeRadioBtn</name>
    <tag></tag>
-   <elementGuidId>2c332e82-ce96-4cf1-9ed5-2037c7bf7941</elementGuidId>
+   <elementGuidId>4ce7c5da-742c-40a6-9c89-ddf1e377db95</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='ctl00_ctl40_g_10531067_5db4_4ec5_855c_53a920180221_ctl00_btnSumbitIntime']</value>
+         <value>//*[@value = 'home']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@value = 'home']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -20,66 +24,52 @@
       <value>input</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>ctl00$ctl40$g_10531067_5db4_4ec5_855c_53a920180221$ctl00$btnSumbitIntime</value>
+      <value>add_type</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>type</name>
       <type>Main</type>
-      <value>Submit In-Time</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl40$g_10531067_5db4_4ec5_855c_53a920180221$ctl00$btnSumbitIntime&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))</value>
+      <value>radio</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>value</name>
       <type>Main</type>
-      <value>ctl00_ctl40_g_10531067_5db4_4ec5_855c_53a920180221_ctl00_btnSumbitIntime</value>
+      <value>home</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ctl00_ctl40_g_10531067_5db4_4ec5_855c_53a920180221_ctl00_btnSumbitIntime&quot;)</value>
+      <value>id(&quot;tab-content1&quot;)/form[1]/input[9]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='ctl00_ctl40_g_10531067_5db4_4ec5_855c_53a920180221_ctl00_btnSumbitIntime']</value>
+      <value>//input[@name='add_type']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='ctl00_ctl40_g_10531067_5db4_4ec5_855c_53a920180221']/div/input</value>
+      <value>//div[@id='tab-content1']/form/input[9]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/input</value>
+      <value>//input[9]</value>
    </webElementXpaths>
 </WebElementEntity>

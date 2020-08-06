@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>we will signout at the end of the day.</description>
-   <name>Signout</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>90a4a0a4-5440-4d2a-9cae-d7f33d1c2b63</testCaseGuid>
-</TestCaseEntity>

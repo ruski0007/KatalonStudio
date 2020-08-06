@@ -23,17 +23,17 @@ WebUI.navigateToUrl(URL_data)
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/Username'), username_data)
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Username'), username_data)
 
-WebUI.setText(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/Email'), Email_data)
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Email'), Email_data)
 
-WebUI.setText(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/DOB'), dob_data)
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/DOB'), dob_data)
 
-WebUI.click(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/phoneNo'))
+WebUI.click(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/phoneNo'))
 
-WebUI.setText(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/phoneNo'), phoneno_data)
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/phoneNo'), phoneno_data)
 
-WebUI.setText(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/Address'), Address_data)
+WebUI.setText(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Address'), Address_data)
 
-WebUI.scrollToElement(findTestObject('Udemy Course/RegistrationPage_OR/Page_Login  Sign Up Forms/Username'), 3)
+WebUI.scrollToElement(findTestObject('RegistrationPage_OR/Page_Login  Sign Up Forms/Username'), 3)
 

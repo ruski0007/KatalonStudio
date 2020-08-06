@@ -23,15 +23,15 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://thetestingworld.com/')
 
-WebUI.rightClick(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/Login Button'))
+WebUI.rightClick(findTestObject('TestingWorld_OR/TestingWorld_OR/Login Button'))
 
 WebUI.delay(2)
 
-WebUI.doubleClick(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/Login Button'))
+WebUI.doubleClick(findTestObject('TestingWorld_OR/TestingWorld_OR/Login Button'))
 
 WebUI.back()
 
 WebUI.waitForPageLoad(3)
 
-WebUI.mouseOver(findTestObject('Udemy Course/TestingWorld_OR/TestingWorld_OR/TrainingMenu'))
+WebUI.mouseOver(findTestObject('TestingWorld_OR/TestingWorld_OR/TrainingMenu'))
 
