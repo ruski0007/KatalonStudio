@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>here we are going to use IF else if else condition</description>
+   <name>TC019_ifElseIfelseCondition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc256597-8b37-4968-84a9-01d639b6bff3</testCaseGuid>
+   <variable>
+      <defaultValue>99</defaultValue>
+      <description></description>
+      <id>f44675a3-4c16-4166-951e-4d21c37d2199</id>
+      <masked>false</masked>
+      <name>a</name>
+   </variable>
+</TestCaseEntity>
