@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Here we are going to 
+1) Navigate to Browser
+2) Navigate Back 
+3) Navigate Forward
+4) Refresh the whole page</description>
+   <name>TC006_Working on PageURL and Page Title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a518609e-70c8-4e75-811c-bf11461be805</testCaseGuid>
+</TestCaseEntity>
