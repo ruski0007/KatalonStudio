@@ -22,15 +22,13 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('TestingWorld_OR/TestingWorld_OR/Login Button'))
 
-if (a==10) {
+if (a == 10) {
     WebUI.setText(findTestObject('TestingWorld_OR/TestingWorld_OR/Login_Username'), 'adityanadkarni')
-} else if (a>50) {
+} else if (a > 50) {
     WebUI.setText(findTestObject('TestingWorld_OR/TestingWorld_OR/Login_Username'), 'aditya')
 
     WebUI.setText(findTestObject('TestingWorld_OR/TestingWorld_OR/Login_password'), 'aditya')
 } else {
     WebUI.navigateToUrl('www.google.com')
 }
-
-WebUI.closeBrowser()
 
