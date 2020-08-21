@@ -32,3 +32,5 @@ if (a == 10) {
     WebUI.navigateToUrl('www.google.com')
 }
 
+WebUI.closeBrowser()
+

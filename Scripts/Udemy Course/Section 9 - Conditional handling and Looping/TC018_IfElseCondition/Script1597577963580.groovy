@@ -24,6 +24,8 @@ WebUI.maximizeWindow()
 if (a > 50) {
     WebUI.click(findTestObject('TestingWorld_OR/TestingWorld_OR/Login Button'))
 
+    WebUI.acceptAlert()
+
     WebUI.sendKeys(findTestObject('TestingWorld_OR/TestingWorld_OR/Login_Username'), 'aditya.nadkarni1234')
 
     WebUI.sendKeys(findTestObject('TestingWorld_OR/TestingWorld_OR/Login_Username'), Keys.chord(Keys.CONTROL, 'a'))
@@ -33,7 +35,7 @@ if (a > 50) {
     WebUI.waitForPageLoad(10)
 
     WebUI.executeJavaScript('window.scrollTo(0,500)', [])
-
-    WebUI.closeBrowser()
 }
+
+WebUI.closeBrowser()
 
